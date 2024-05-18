@@ -1,14 +1,9 @@
 [
+  { "name": "sanin", "email": "sanin@gmail.com", "username": "sanu" },
   {
-    "id": "f182d94b-2dff-473f-ab95-a8d0059c47ca",
-    "name": "mufeed",
-    "email": "anas@gmail.com",
-    "username": "ansu"
-  },
-  {
-    "id": "28680f73-7d71-4b95-94e0-97a9ce51a8f7",
-    "name": "mufeed",
-    "email": "anas@gmail.com",
-    "username": "ansu"
+    "id": "c5c69c76-bb74-4c71-8385-e72ea2e9c874",
+    "name": "sanin",
+    "email": "sanin@gmail.com",
+    "username": "sanu"
   }
 ]
